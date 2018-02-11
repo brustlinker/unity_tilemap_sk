@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - "\u80CC\u666F"
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: "\u80CC\u666F"
+    uniqueID: 4201070089
+    locked: 0
+  - name: "\u524D\u666F"
+    uniqueID: 1892183755
+    locked: 0
+  - name: "\u82F1\u96C4"
+    uniqueID: 3922414431
     locked: 0
